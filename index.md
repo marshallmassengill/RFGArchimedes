@@ -1,7 +1,5 @@
 ## Archimedes Project
-
 This website contains information and resources for the Archimedes Project Proposal, a _Business Transformation_ project for the Redwood Financial Bank.
-
 ![Image](RFG_Logo.png)
 
 ### Three Core takeaways:
