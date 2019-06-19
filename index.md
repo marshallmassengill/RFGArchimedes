@@ -1,19 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to RFG - Archimedes Project Proposal Site
 
-You can use the [editor on GitHub](https://github.com/marshallmassengill/RFGArchimedes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This website contains information and resources for the Archimedes Project Proposal, an IT Transformation project for the Redwood Financial Bank.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Bear with us as we work on this....
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+This is some random text so I have something to test.
 
 - Bulleted
 - List
