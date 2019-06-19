@@ -89,9 +89,9 @@ This website contains information and resources for the Archimedes Project Propo
 - Ultimately speed financial management decisions and improve customer outcomes
 
 ### Material Links: 
-[Link](url)
-[Link](url)
-[Link](url)
+- [Link](url)
+- [Link](url)
+- [Link](url)
 
 ```
 
