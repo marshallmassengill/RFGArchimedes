@@ -1,5 +1,5 @@
-## Archimedes Project
-This website contains information and resources for the Archimedes Project Proposal, a _Business Transformation_ project for the Redwood Financial Bank.
+## Project Archimedes
+This website contains information and resources for the Project Archimedes Proposal, a _Business Transformation_ project for the Redwood Financial Bank.
 ![Image](RFG_Logo.png)
 
 ### Three Core takeaways:
@@ -14,7 +14,7 @@ This website contains information and resources for the Archimedes Project Propo
 - Empower Digital Workspaces
 - Prepare for a cloud-first future
  
-### Business Needs:
+### IT Needs:
 - Upgrade IT infrastructure away from previous legacy hardware and architecture
 - Increase system efficiency to reduce administrative turnaround times
 - Streamline network design to improve traffic responsiveness and decrease the risk of extended site downtime
