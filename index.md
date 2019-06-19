@@ -2,7 +2,7 @@
 
 This website contains information and resources for the Archimedes Project Proposal, a _Business Transformation_ project for the Redwood Financial Bank.
 
-![Image](src)
+![Image](RFG_Logo.png)
 
 ### Three Core takeaways:
 - Create value by unlocking innovation and responding to new opportunities
