@@ -1,3 +1,3 @@
 theme: jekyll-theme-minimal
-logo: [RFG_Logo.png]
-show_downloads: [false]
+logo: "RFG_Logo.png"
+show_downloads: false
