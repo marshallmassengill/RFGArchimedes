@@ -1,6 +1,4 @@
 ## Project Archimedes
-Give me a place to stand and with a lever I will move the whole world.
-
 This website contains information and resources for the Project Archimedes Proposal, a _Business Transformation_ project for the Redwood Financial Bank.
 ![Image](RFG_Logo.png)
 
