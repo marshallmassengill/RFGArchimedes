@@ -1,61 +1,25 @@
-## Project Archimedes
+# Project Archimedes
 This website contains information and resources for the Project Archimedes Proposal, a _Business Transformation_ project for the Redwood Financial Group.
 
-### Three Core takeaways:
+## Three Core takeaways:
 - Create value by unlocking innovation and responding to new opportunities
 - Protect brand and customer trust at a time when threats are pervasive
 - Engage the workforce with intuitive experiences that boost productivity
 
-### Going forward, the high priority items are:
+## Going forward, the high priority items are:
 - Decision and approval of the presented approach
 - Workshop series to gather requirements for the different parts of the business
 - Workshop series to drive the discovery of the potential of the key areas _process_ and _people_.
 - Checkpoint to assess MVP scope and timeline
 
-### Simplified IT Priorities:
+## Simplified IT Priorities:
 - Modernize data centers
 - Integrate public cloud
 - Transform networking and security
 - Empower Digital Workspaces
 - Prepare for a cloud-first future
  
-### IT Drivers:
-- Upgrade IT infrastructure away from previous legacy hardware and architecture
-- Increase system efficiency to reduce administrative turnaround times
-- Streamline network design to improve traffic responsiveness and decrease the risk of extended site downtime
-- Reconstruct IT organization to emphasize speed in development cycle
-- Develop a cost-effective platform solution that can work at scale
-- Move away from a local application-based development philosophy
-- Modernize and increase security of IT infrastructure
-- Enable multi-cloud portability for greater flexibility
-- Enhance mobility to unlock higher productivity and new business opportunities
-- Upgrade IT infrastructure in anticipation of growing customer cloud service demand
-- Develop a new platform that could easily centralize cloud management tasks
-- Minimize the scale and length of downtime for branch offices and ATMs
-- Support off-site work with increased mobile device support
-- Transition legacy IT infrastructure away from physical servers and integrate more virtualization
-- Develop a back end agile enough to more securely process increasing amounts of internal data
-- Establish an IT model that supports future markets and expansion goals
-- Help ensure compliance and protection across public and private cloud
-- Scale and modernize infrastructure to support business growth
-- Improve service delivery and the customer experience
-- Deploy a scalable solution for its network to support growth and innovation
-- Safeguard customer trust and meet or exceed compliance requirements
-- Help ensure reliable access to data and applications, including cloud apps
-- Update legacy IT infrastructure to address growing customer demands today and in the future
-- Revamp network automation tools to be more agile
-- Improve network speed and efficiency to meet increased customer requirements
-- Redesign its internal IT environment to meet the performance expectations of mobile-native employees
-- More efficiently roll out device updates
-- Maintain security standards for sensitive data when working on nontraditional devices
-- Integrate mobile devices into customer interactions
-- Improve network administration efficiency across its 40-plus hospitals
-- Improve patient engagement by supplying self-service, interactive entertainment
-- Conserve staffing resources to focus more on customer care, less on IT maintenance
-- Comply with privacy and security regulations across mobile devices
-- Require flexibility for a dynamic workforce
- 
-### Business Impact:
+## Business Impact:
 - Cloud migration bolstered speed and flexibility of IT administration
 - Consolidating server management for branches lets them focus on business goals
 - Low transition costs allowed more financial resources to go toward organic innovation
@@ -91,13 +55,49 @@ This website contains information and resources for the Project Archimedes Propo
 - Employees simply log on from any web browser on any device at any time to do their work
 - Ultimately speed financial management decisions and improve customer outcomes
 
-### Material Links: 
+## IT Drivers:
+- Upgrade IT infrastructure away from previous legacy hardware and architecture
+- Increase system efficiency to reduce administrative turnaround times
+- Streamline network design to improve traffic responsiveness and decrease the risk of extended site downtime
+- Reconstruct IT organization to emphasize speed in development cycle
+- Develop a cost-effective platform solution that can work at scale
+- Move away from a local application-based development philosophy
+- Modernize and increase security of IT infrastructure
+- Enable multi-cloud portability for greater flexibility
+- Enhance mobility to unlock higher productivity and new business opportunities
+- Upgrade IT infrastructure in anticipation of growing customer cloud service demand
+- Develop a new platform that could easily centralize cloud management tasks
+- Minimize the scale and length of downtime for branch offices and ATMs
+- Support off-site work with increased mobile device support
+- Transition legacy IT infrastructure away from physical servers and integrate more virtualization
+- Develop a back end agile enough to more securely process increasing amounts of internal data
+- Establish an IT model that supports future markets and expansion goals
+- Help ensure compliance and protection across public and private cloud
+- Scale and modernize infrastructure to support business growth
+- Improve service delivery and the customer experience
+- Deploy a scalable solution for its network to support growth and innovation
+- Safeguard customer trust and meet or exceed compliance requirements
+- Help ensure reliable access to data and applications, including cloud apps
+- Update legacy IT infrastructure to address growing customer demands today and in the future
+- Revamp network automation tools to be more agile
+- Improve network speed and efficiency to meet increased customer requirements
+- Redesign its internal IT environment to meet the performance expectations of mobile-native employees
+- More efficiently roll out device updates
+- Maintain security standards for sensitive data when working on nontraditional devices
+- Integrate mobile devices into customer interactions
+- Improve network administration efficiency across its 40-plus hospitals
+- Improve patient engagement by supplying self-service, interactive entertainment
+- Conserve staffing resources to focus more on customer care, less on IT maintenance
+- Comply with privacy and security regulations across mobile devices
+- Require flexibility for a dynamic workforce
+
+## Material Links: 
 - [RTM Excel Spreadsheet](RFG_RTM_Team3.xlsx)
 - [RFG Archimedes Handout](RFG_Notes_TimeLine.docx)
 - [Presentation](PresentationG3.pdf)
 - [Bingo](bingo.html)
 - [Project Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-### Disclaimer
+## Disclaimer
 
 This isn't real and is just a place for our team to store files for our project.  We all know Redwood Financial Group is a front for international money laundering anyway. ;)
