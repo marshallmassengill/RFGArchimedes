@@ -88,7 +88,8 @@ This website contains information and resources for the Project Archimedes Propo
 ### Material Links: 
 - [RTM Excel Spreadsheet](RFG_RTM_Team3.xlsx)
 - [RFG Archimedes Handout](RFG_Notes_TimeLine.docx)
-- [Link](url)
+- [Presentation](PresentationG3.pdf)
+- [Bingo](bingo.html)
 
 ```
 
