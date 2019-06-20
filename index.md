@@ -6,6 +6,12 @@ This website contains information and resources for the Project Archimedes Propo
 - Protect brand and customer trust at a time when threats are pervasive
 - Engage the workforce with intuitive experiences that boost productivity
 
+### Going forward, the high priority items are:
+- Decision and approval of the presented approach
+- Workshop series to gather requirements for the different parts of the business
+- Workshop series to drive the discovery of the potential of the key areas _process_ and _people_.
+- Checkpoint to assess MVP scope and timeline
+
 ### Simplified IT Priorities:
 - Modernize data centers
 - Integrate public cloud
