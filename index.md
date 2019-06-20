@@ -13,7 +13,7 @@ This website contains information and resources for the Project Archimedes Propo
 - Empower Digital Workspaces
 - Prepare for a cloud-first future
  
-### IT Needs:
+### IT Drivers:
 - Upgrade IT infrastructure away from previous legacy hardware and architecture
 - Increase system efficiency to reduce administrative turnaround times
 - Streamline network design to improve traffic responsiveness and decrease the risk of extended site downtime
