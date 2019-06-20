@@ -92,8 +92,6 @@ This website contains information and resources for the Project Archimedes Propo
 - [Bingo](bingo.html)
 - [Project Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-```
-
 ### Disclaimer
 
 This isn't real and is just a place for our team to store files for our project.  We all know Redwood Financial Group is a front for international money laundering anyway. ;)
