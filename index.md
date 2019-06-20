@@ -90,6 +90,7 @@ This website contains information and resources for the Project Archimedes Propo
 - [RFG Archimedes Handout](RFG_Notes_TimeLine.docx)
 - [Presentation](PresentationG3.pdf)
 - [Bingo](bingo.html)
+- [Project Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ```
 
